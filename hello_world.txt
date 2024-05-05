@@ -1,1 +1,3 @@
 Hello World, what is my purpose in life?
+
+This is my first attempt at committing without guidance.
